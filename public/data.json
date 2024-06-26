@@ -1,0 +1,23 @@
+[
+    { "timestamp": "2024-01-01", "value1": 120, "value2": 230, "value3": 180 },
+    { "timestamp": "2024-01-02", "value1": 140, "value2": 250, "value3": 290 },
+    { "timestamp": "2024-01-03", "value1": 350, "value2": 240, "value3": 200 },
+    { "timestamp": "2024-01-04", "value1": 160, "value2": 220, "value3": 280 },
+    { "timestamp": "2024-01-05", "value1": 280, "value2": 210, "value3": 160 },
+    { "timestamp": "2024-01-06", "value1": 150, "value2": 260, "value3": 10 },
+    { "timestamp": "2024-01-07", "value1": 130, "value2": 170, "value3": 200 },
+    { "timestamp": "2024-01-08", "value1": 70, "value2": 280, "value3": 220 },
+    { "timestamp": "2024-01-09", "value1": 140, "value2": 90, "value3": 180 },
+    { "timestamp": "2024-01-10", "value1": 160, "value2": 300, "value3": 230 },
+    { "timestamp": "2024-01-11", "value1": 190, "value2": 310, "value3": 150 },
+    { "timestamp": "2024-01-12", "value1": 150, "value2": 260, "value3": 210 },
+    { "timestamp": "2024-01-13", "value1": 180, "value2": 280, "value3": 210 },
+    { "timestamp": "2024-01-14", "value1": 130, "value2": 270, "value3": 210 },
+    { "timestamp": "2024-01-15", "value1": 370, "value2": 210, "value3": 210 },
+    { "timestamp": "2024-01-16", "value1": 150, "value2": 250, "value3": 200 },
+    { "timestamp": "2024-01-17", "value1": 160, "value2": 300, "value3": 220 },
+    { "timestamp": "2024-01-18", "value1": 140, "value2": 280, "value3": 210 },
+    { "timestamp": "2024-01-19", "value1": 180, "value2": 310, "value3": 240 },
+    { "timestamp": "2024-01-20", "value1": 190, "value2": 320, "value3": 20 }
+  ]
+  
